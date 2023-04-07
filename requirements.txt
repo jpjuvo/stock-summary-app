@@ -1,0 +1,6 @@
+requests
+yfinance
+openai
+streamlit
+beautifulsoup4
+plotly
