@@ -1,6 +1,6 @@
 # Stock summary app
 
-Stock summarization app that retrieves financiel data from Yahoo Finance and summarizes recent news using OpenAI language models.
+Stock summarization app that retrieves financiel data from Yahoo Finance for stock ticker and summarizes recent news related to the stock using OpenAI language models.
 
 The app runs locally with Streamlit web UI. Disclaimer
 
@@ -30,6 +30,6 @@ App keeps running until it's stopped even after reboot. To stop, use docker kill
 
 Find out the container id with `docker ps` and stop the container with `docker kill [container_id]`  
 
-# Discalimer
+# Disclaimer
 
 This app is not intended to provide financial advice. It is imperative to conduct your own research and analysis before making any decisions to buy or sell stocks. The app's purpose is solely to offer information and data aggregation and the provided information may contain factual errors.
