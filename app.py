@@ -22,7 +22,7 @@ def plot_stock_data(ticker, data):
 
 
 # Set the page title and favicon
-st.set_page_config(page_title="Stock Analysis App", page_icon=":chart_with_upwards_trend:")
+st.set_page_config(page_title="Stock Summary App", page_icon=":chart_with_upwards_trend:")
 
 # Add a title and description
 st.title("Stock summary")
